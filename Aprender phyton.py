@@ -98,3 +98,7 @@ print(nombre[0:2] + nombre[-1]+ "." + apellido[0] + str(anio_nacimiento) + "@ina
 #mas la primera letra del apellido
 #mas el año de nacimiento
 #@inacapmail.cl
+
+
+
+Print ("hola mundo, los gatitos son lo mejor del mundo.")
