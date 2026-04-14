@@ -102,3 +102,6 @@ print(nombre[0:2] + nombre[-1]+ "." + apellido[0] + str(anio_nacimiento) + "@ina
 
 
 Print ("hola mundo, los gatitos son lo mejor del mundo.")
+
+
+#Ya no se que mas poner pero tengo que seguir haciendo cambios paprobar esta cuestion.
