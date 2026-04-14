@@ -1,5 +1,5 @@
+Print ("hola mundo")
 
-Print ("Hola mundo")
-Print ("Hola mundo")
-
-Print ("Hola mundo")
+print ("hola mundo 2")
+Print ("hola mundo 3")
+print ("hola mundo 4")
